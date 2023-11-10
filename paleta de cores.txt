@@ -1,0 +1,8 @@
+
+CADASTRO PESSOAL-fonte : Black Italic
+D30000
+
+cor retangulo- FEDEDE
+
+Insira seu nome e outras informaçoes- fonte: Inter
+elipse-FFADAD
