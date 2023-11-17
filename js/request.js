@@ -37,5 +37,10 @@ function cadastrar() {
 
 }
 
-  
-
+function listarPessoas() {
+  fetch(`${url_server}/pessoas`)
+      .then(response => response.json())
+      .then(data => {
+          console.log(data);
+      });
+}
